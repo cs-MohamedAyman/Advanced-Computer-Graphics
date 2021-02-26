@@ -6,26 +6,26 @@ Advanced computer graphics lectures for computer science students.
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 1` 
+## `Part 3` 
 
-### `Lecture 01` - 
-### `Lecture 02` - 
-### `Lecture 03` - 
-### `Lecture 04` - 
-### `Lecture 05` - 
-### `Lecture 06` - 
+### `Lecture 13` - 
+### `Lecture 14` - 
+### `Lecture 15` - 
+### `Lecture 16` - 
+### `Lecture 17` - 
+### `Lecture 18` - 
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 2` 
+## `Part 4` 
 
-### `Lecture 07` - 
-### `Lecture 08` - 
-### `Lecture 09` - 
-### `Lecture 10` - 
-### `Lecture 11` - 
-### `Lecture 12` - 
+### `Lecture 19` - 
+### `Lecture 20` - 
+### `Lecture 21` - 
+### `Lecture 22` - 
+### `Lecture 23` - 
+### `Lecture 24` - 
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
