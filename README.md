@@ -3,34 +3,154 @@
 # Advanced-Computer-Graphics
 Advanced computer graphics lectures for computer science students.
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 3` 
+## `Part 1`  `30 hrs`
 
-### `Lecture 13` - 
-### `Lecture 14` - 
-### `Lecture 15` - 
-### `Lecture 16` - 
-### `Lecture 17` - 
-### `Lecture 18` - 
+### `Lecture 01` - 
+<details>
+  <summary>Agenda</summary><br>
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 02` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 03` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 04` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 05` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 06` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 4` 
+## `Part 2`  `30 hrs`
 
-### `Lecture 19` - 
-### `Lecture 20` - 
-### `Lecture 21` - 
-### `Lecture 22` - 
-### `Lecture 23` - 
-### `Lecture 24` - 
+### `Lecture 07` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 08` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 09` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 10` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 11` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 12` - 
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 
-## `Assignments` `50H`
+## `Assignments` `5 hrs`/`Assignment`
 
 ### `Assignment 01` - 
 ### `Assignment 02` - 
@@ -43,44 +163,45 @@ Advanced computer graphics lectures for computer science students.
 ### `Assignment 09` - 
 ### `Assignment 10` - 
 
-<img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
 
-## `Educational-Projects` `80H`
+## `Educational-Projects` `10 hrs`/`Project`
 
-### `Project 01` -
-### `Project 02` -
-### `Project 03` -
-### `Project 04` -
-### `Project 05` -
-### `Project 06` -
-### `Project 07` -
-### `Project 08` -
+|`Project 01` | `Project 02` | `Project 03` | `Project 04` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
+
+|`Project 05` | `Project 06` | `Project 07` | `Project 08` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
 
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
 ## `Textbooks`
 
-*
-*
-*
-*
+* 
+* 
+* 
+* 
 
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 ## `Coursera-Specializations`
 
-*
-*
-*
-*
+* 
+* 
+* 
+* 
 
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## `YouTube-Playlists`
 
-*
-*
-*
-*
+* 
+* 
+* 
+* 
